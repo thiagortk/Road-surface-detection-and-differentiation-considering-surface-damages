@@ -15,3 +15,14 @@ The semantic segmentation GT for road surfaces contains 701 frames from [RTK dat
 - Pothole, for different types and sizes of potholes, no matter if they are on asphalt, paved or unpaved roads;
 - Cracks, used in different road damages, like ruptures.
 
+ ## Citation:
+ ```
+@misc{rateke:2020.3,
+    title = {Road surface detection and differentiation considering surface damages},
+    author = {Thiago Rateke and Aldo von Wangenheim},
+    year = {2020},
+    eprint = {2006.13377},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.CV},
+}
+```
