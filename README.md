@@ -1,5 +1,7 @@
 # Road surface detection and differentiation considering surface damages
 
+[![Road Surface Semantic Segmentation](https://i.imgur.com/L0OFzOk.jpg)](https://youtu.be/uUchRHWOEF4 "Road Surface Semantic Segmentation")
+
 The semantic segmentation GT for road surfaces contains 701 frames from [RTK dataset](http://www.lapix.ufsc.br/pesquisas/projeto-veiculo-autonomo/datasets/?lang=en). Classes are defined as follows:
 
 - Background, everything being unrelated to the road surface;
