@@ -22,11 +22,14 @@ The semantic segmentation GT for road surfaces contains 701 frames from [RTK dat
 @misc{rateke:2020.3,
     title = {Road surface detection and differentiation considering surface damages},
     author = {Thiago Rateke and Aldo von Wangenheim},
-    year = {2020},
-    eprint = {2006.13377},
-    archivePrefix = {arXiv},
-    primaryClass = {cs.CV},
+    journal={Autonomous Robots},
+    year={2021},
+    month={Jan},
+    day={11},
+    issn={1573-7527},
+    doi={10.1007/s10514-020-09964-3},
+    url={https://doi.org/10.1007/s10514-020-09964-3}
 }
 ```
- - [Preprint Paper](https://www.researchgate.net/publication/342436082_Road_surface_detection_and_differentiation_considering_surface_damages)
+ - [Original Paper](https://rdcu.be/cdpxi)
  - [Step-by-step](https://towardsdatascience.com/road-surface-semantic-segmentation-4d65b045245?source=friends_link&sk=f1fbe72fecd65331eb326a513b1f464f)
